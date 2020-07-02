@@ -1,14 +1,14 @@
-news:
-====
+**news:**
 
-forums:
-=====
+[https://www.solidot.org/](https://www.solidot.org/)
+---
 
-https://v2ex.com
----------
+**forums:**
 
-blogs:
-=====
+[https://v2ex.com](https://v2ex.com)
+---
 
-https://byvoid.com
---------
+**blogs:**
+
+[https://byvoid.com](https://byvoid.com)
+---
